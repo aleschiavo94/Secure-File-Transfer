@@ -1,0 +1,2 @@
+/C=IT/CN=client
+/C=IT/O=Cybersecurity/OU=Certification Authority/CN=Cybersecurity_CA
