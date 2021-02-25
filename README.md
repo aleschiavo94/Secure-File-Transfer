@@ -1,2 +1,7 @@
-# Secure-File-Transfer
-A kinda-secure client-server file transfer application developed in C++ and OpenSSL library for crypto algorithms. 
+# CyberSecurity-Project
+
+/mnt/c/users/adria/"OneDrive - University of Pisa"/Cybersecurity/project/client
+
+Structure:
+- RSA 2048 for asymmetric key exchange
+- AES 128 for symmetric encryption
